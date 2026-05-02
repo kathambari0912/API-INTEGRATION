@@ -20,4 +20,4 @@ The weather icon is an image I downloaded from the browser and saved in my proje
 This project helped me understand how to use an API, handle live data, and connect everything together into a working web app.
 
 #output
-[today_schedule_css_bootstrap_project.html](https://github.com/user-attachments/files/27300946/today_schedule_css_bootstrap_project.html)
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/e173b499-3e07-40bf-9d1e-1ca57629c309" />
